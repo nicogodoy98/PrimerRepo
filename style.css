@@ -1,0 +1,17 @@
+.divPadre{
+    background-color: rgb(49, 48, 48);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 1.2rem;
+}
+footer{
+    text-align: center;
+    font-size:larger;
+    background-color: skyblue;
+    margin-top: 1.5rem;
+}
+.pFooter{
+    margin: 0%;
+}
